@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/manual_ip.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/manual_ip.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/shortcuts.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/shortcuts.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/shortcuts_item_color.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/shortcuts_item_color.xml"
+    },
+    {
+        "merged": "com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/shortcuts.xml",
+        "source": "com.google.android.apps.tvremote.app-main-6:/layout/shortcuts.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/subview_touchpad.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/subview_touchpad.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/subview_playcontrol_tv.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/subview_playcontrol_tv.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/shortcuts_item.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/shortcuts_item.xml"
+    },
+    {
+        "merged": "com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/subview_bottom_buttons.xml",
+        "source": "com.google.android.apps.tvremote.app-main-6:/layout/subview_bottom_buttons.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/subview_shortcut_list.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/subview_shortcut_list.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/device_list_separator_layout.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/device_list_separator_layout.xml"
+    },
+    {
+        "merged": "com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/subview_playcontrol_tv.xml",
+        "source": "com.google.android.apps.tvremote.app-main-6:/layout/subview_playcontrol_tv.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/tutorial.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/tutorial.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/pairing.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/pairing.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/slider_value_layout.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/slider_value_layout.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/subview_main_buttons.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/subview_main_buttons.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/subview_bottom_buttons.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/subview_bottom_buttons.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/main_touchpad_top.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/main_touchpad_top.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/device_finder_layout.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/device_finder_layout.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/about.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/about.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/device_info.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/device_info.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/device_list_item_layout.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/device_list_item_layout.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-mergeDebugResources-3:/layout/keyboard.xml",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/keyboard.xml"
+    }
+]

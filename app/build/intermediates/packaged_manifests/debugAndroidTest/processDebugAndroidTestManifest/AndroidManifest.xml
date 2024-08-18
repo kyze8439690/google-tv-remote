@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.getsurfboard.test" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="34" />
+
+    <instrumentation
+        android:name="androidx.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.getsurfboard"
+        android:targetPackage="com.getsurfboard" />
+
+    <application
+        android:debuggable="true"
+        android:extractNativeLibs="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

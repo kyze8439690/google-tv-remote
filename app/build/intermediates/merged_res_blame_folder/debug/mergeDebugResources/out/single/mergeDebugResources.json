@@ -1,0 +1,1338 @@
+[
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_subview_bottom_buttons.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/subview_bottom_buttons.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_19.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_19.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_04_touchpad.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_04_touchpad.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_04.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_04.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_device_list_item_layout.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/device_list_item_layout.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_12.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_12.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_13_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_13_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_06.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_06.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_07_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_07_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_12.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_12.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_27.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_27.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_shortcuts.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/shortcuts.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_14.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_14.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_28.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_28.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_22.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_22.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_03.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_03.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_20.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_20.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_dpad.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/dpad.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_10_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_10_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_20.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_20.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_04_buttons.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_04_buttons.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_26.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_26.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_tutorial.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/tutorial.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_28.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_28.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_11.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_11.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_13.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_13.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_05.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_05.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_13.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_13.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_28_shortcuts_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_28_shortcuts_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_07_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_07_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_02.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_02.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_07.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_07.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_28.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_28.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_21.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_21.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_27_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_27_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_15.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_15.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_17.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_17.png"
+    },
+    {
+        "merged": "com.google.android.apps.tvremote.app-debug-4:/layout_shortcuts.xml.flat",
+        "source": "com.google.android.apps.tvremote.app-main-6:/layout/shortcuts.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_23.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_23.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_touchpad_icon.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/touchpad_icon.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_06.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_06.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_subview_shortcut_list.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/subview_shortcut_list.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_27.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_27.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_02.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_02.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_04_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_04_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_10.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_10.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_02_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_02_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_10_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_10_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_06.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_06.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_10.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_10.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_12.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_12.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_14.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_14.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_08.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_08.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_03.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_03.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_20.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_20.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_16_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_16_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_20.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_20.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_24.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_24.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_touchpad.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/touchpad.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_11.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_11.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_05.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_05.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_13_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_13_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_03.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_03.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_19_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_19_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_18_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_18_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_09.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_09.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_tutorial_dpad.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/tutorial_dpad.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_10.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_10.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_22_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_22_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_24_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_24_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_subview_touchpad.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/subview_touchpad.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_10.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_10.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_25_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_25_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_01.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_01.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_13.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_13.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_21.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_21.png"
+    },
+    {
+        "merged": "com.google.android.apps.tvremote.app-debug-4:/layout_subview_bottom_buttons.xml.flat",
+        "source": "com.google.android.apps.tvremote.app-main-6:/layout/subview_bottom_buttons.xml"
+    },
+    {
+        "merged": "com.google.android.apps.tvremote.app-debug-4:/layout_subview_playcontrol_tv.xml.flat",
+        "source": "com.google.android.apps.tvremote.app-main-6:/layout/subview_playcontrol_tv.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_23.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_23.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_15.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_15.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_10.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_10.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_03.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_03.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_23.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_23.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_04_touchpad_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_04_touchpad_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_manual_ip.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/manual_ip.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_05_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_05_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_26.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_26.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_09.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_09.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_17.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_17.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_02.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_02.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_23.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_23.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_01_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_01_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_25.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_25.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_08.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_08.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_01.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_01.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_19.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_19.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_11.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_11.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_04_touchpad.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_04_touchpad.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_01.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_01.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_tutorial_dpad.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/tutorial_dpad.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_11_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_11_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_09_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_09_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_touchpad_icon.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/touchpad_icon.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_about.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/about.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_16.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_16.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_18.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_18.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_08.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_08.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_16.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_16.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_tutorial_webmode.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/tutorial_webmode.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_01.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_01.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_03.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_03.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_16.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_16.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_09.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_09.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout-land_keyboard.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout-land/keyboard.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_07.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_07.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_08.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_08.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_03.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_03.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_12.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_12.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_05.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_05.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_04_touchpad.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_04_touchpad.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_25.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_25.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_09.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_09.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_10.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_10.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_07.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_07.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_04_touchpad.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_04_touchpad.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_12.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_12.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_tutorial_background.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/tutorial_background.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_28_shortcuts_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_28_shortcuts_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_28.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_28.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_tutorial_background.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/tutorial_background.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_10.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_10.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_23.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_23.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_02.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_02.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_08.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_08.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_21.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_21.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_04.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_04.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_device_info.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/device_info.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_06.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_06.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_16.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_16.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_tutorial_volume.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/tutorial_volume.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_11.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_11.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/menu_main.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/menu/main.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_dpad_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/dpad_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_22.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_22.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_14.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_14.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_24.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_24.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_22.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_22.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_app_icon.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_01.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_01.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_04_buttons.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_04_buttons.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_04_buttons.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_04_buttons.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_subview_playcontrol_tv.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/subview_playcontrol_tv.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_tutorial_webmode.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/tutorial_webmode.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_22.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_22.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_24.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_24.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_27.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_27.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_11.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_11.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_14.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_14.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_28.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_28.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_15.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_15.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_07.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_07.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_04.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_04.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_02.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_02.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_28.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_28.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_17.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_17.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_15.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_15.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_02.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_02.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_06.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_06.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_03_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_03_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_09.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_09.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_15.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_15.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_19.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_19.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_28.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_28.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_26_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_26_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_12.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_12.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_17.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_17.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_14.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_14.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_23_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_23_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_22.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_22.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_07.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_07.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_27.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_27.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_24.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_24.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_23.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_23.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_21.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_21.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_04_buttons_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_04_buttons_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_13.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_13.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_27.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_27.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_17_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_17_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_19.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_19.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_21.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_21.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_15.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_15.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_22.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_22.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_13.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_13.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_empty.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/empty.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_22.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_22.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_15.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_15.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_20.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_20.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_25.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_25.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_18.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_18.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_menu_switch.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/menu_switch.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_app_icon.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_26.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_26.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_06.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_06.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_shortcuts_item.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/shortcuts_item.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_18.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_18.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_16.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_16.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_08_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_08_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_12.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_12.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_03_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_03_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_10.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_10.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_15.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_15.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_device_list_separator_layout.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/device_list_separator_layout.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_17.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_17.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_13.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_13.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_20.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_20.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_16.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_16.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_empty.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/empty.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_21.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_21.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_26.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_26.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_08.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_08.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_06_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_06_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_06.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_06.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_09.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_09.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_14.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_14.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_19.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_19.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_08_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_08_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_25.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_25.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_13.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_13.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_05.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_05.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_08.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_08.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_03.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_03.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_11.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_11.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_15_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_15_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_24.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_24.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_07.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_07.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_16.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_16.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_11.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_11.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_20.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_20.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_08.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_08.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_18.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_18.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_12_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_12_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_14_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_14_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_24.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_24.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_17_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_17_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_16.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_16.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_05.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_05.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_23_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_23_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_14.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_14.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_23.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_23.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_18.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_18.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_09.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_09.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_23.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_23.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_20_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_20_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_21_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_21_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_17.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_17.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_subview_main_buttons.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/subview_main_buttons.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_button_highlight.9.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/button_highlight.9.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_keyboard.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/keyboard.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_26.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_26.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_background_28_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/background_28_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_02.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_02.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_21.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_21.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_13.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_13.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_21_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_21_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_device_finder_layout.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/device_finder_layout.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_06.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_06.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_tutorial_volume.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/tutorial_volume.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_26.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_26.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_11_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_11_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_12.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_12.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_15_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_15_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_04.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_04.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_dpad.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/dpad.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_18.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_18.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_19_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_19_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_02.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_02.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_06_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_06_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_05_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_05_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_04_buttons.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_04_buttons.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_24.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_24.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_26.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_26.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_19.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_19.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_03.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_03.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_touchpad.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/touchpad.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_09_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_09_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_01_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_01_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_28.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_28.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_02_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_02_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_25.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_25.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_20_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_20_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_18_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_18_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_09.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_09.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_01.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_01.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_19.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_19.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_27.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_27.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_pairing.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/pairing.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_25.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_25.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_22_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_22_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_25.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_25.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_17.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_17.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_touched_25.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_touched_25.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_14_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_14_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_12_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_12_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_22.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_22.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_27.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_27.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_27.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_27.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_16_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_16_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_19.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_19.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_01.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_01.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_17.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_17.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_05.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_05.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_18.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_18.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_18.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_18.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_05.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_05.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_14.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_14.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_26.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_26.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_01.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_01.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_icons_touched_05.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/icons_touched_05.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_touched_07.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_touched_07.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_touched_20.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_touched_20.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_25_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_25_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_26_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_26_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_27_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_27_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_24_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_24_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_icons_07.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/icons_07.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable_icon_28_selector.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable/icon_28_selector.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_about_logo.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/about_logo.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_11.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_11.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_main_touchpad_top.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/main_touchpad_top.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-hdpi_background_24.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-hdpi/background_24.png"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_shortcuts_item_color.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/shortcuts_item_color.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/layout_slider_value_layout.xml.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/layout/slider_value_layout.xml"
+    },
+    {
+        "merged": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-debug-4:/drawable-mdpi_background_21.png.flat",
+        "source": "/Users/yugy/.gradle/daemon/8.7/com.google.android.apps.tvremote.app-main-6:/drawable-mdpi/background_21.png"
+    }
+]

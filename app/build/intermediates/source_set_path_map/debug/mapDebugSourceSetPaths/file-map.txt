@@ -1,0 +1,7 @@
+com.google.android.apps.tvremote.app-pngs-0 /Users/yugy/Documents/Github/google-tv-remote/app/build/generated/res/pngs/debug
+com.google.android.apps.tvremote.app-resValues-1 /Users/yugy/Documents/Github/google-tv-remote/app/build/generated/res/resValues/debug
+com.google.android.apps.tvremote.app-mergeDebugResources-2 /Users/yugy/Documents/Github/google-tv-remote/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.google.android.apps.tvremote.app-mergeDebugResources-3 /Users/yugy/Documents/Github/google-tv-remote/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.google.android.apps.tvremote.app-debug-4 /Users/yugy/Documents/Github/google-tv-remote/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.google.android.apps.tvremote.app-debug-5 /Users/yugy/Documents/Github/google-tv-remote/app/src/debug/res
+com.google.android.apps.tvremote.app-main-6 /Users/yugy/Documents/Github/google-tv-remote/app/src/main/res

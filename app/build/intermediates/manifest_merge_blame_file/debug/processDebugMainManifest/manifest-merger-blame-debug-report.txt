@@ -1,0 +1,179 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 The version number defined here is sent to the GTV box when the
+4     remote connects to it. This number is compared with the one defined
+5     in IpRemote/res/values/string.xml to determine if a new version is
+6     available
+7-->
+8<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+9    package="com.getsurfboard"
+10    android:installLocation="auto"
+11    android:versionCode="23"
+12    android:versionName="1.0.2" >
+13
+14    <uses-sdk
+15        android:minSdkVersion="21"
+16        android:targetSdkVersion="34" />
+17
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:83:5-67
+18-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:83:22-64
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:84:5-76
+19-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:84:22-73
+20    <uses-permission android:name="android.permission.VIBRATE" />
+20-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:85:5-66
+20-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:85:22-63
+21
+22    <uses-feature
+22-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:87:5-89:35
+23        android:name="android.hardware.touchscreen"
+23-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:88:9-52
+24        android:required="true" />
+24-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:89:9-32
+25    <uses-feature
+25-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:90:5-92:35
+26        android:name="android.hardware.wifi"
+26-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:91:9-45
+27        android:required="true" />
+27-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:92:9-32
+28
+29    <supports-screens android:smallScreens="false" />
+29-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:94:5-54
+29-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:94:23-51
+30
+31    <application
+31-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:9:5-81:19
+32        android:debuggable="true"
+33        android:extractNativeLibs="true"
+34        android:icon="@drawable/app_icon"
+34-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:10:9-42
+35        android:label="@string/app_name" >
+35-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:11:9-41
+36        <activity
+36-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:13:9-27:20
+37            android:name="com.google.android.apps.tvremote.StartupActivity"
+37-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:14:13-44
+38            android:exported="true"
+38-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:15:13-36
+39            android:noHistory="true"
+39-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:16:13-37
+40            android:theme="@android:style/Theme.NoTitleBar" >
+40-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:17:13-60
+41            <intent-filter>
+41-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:18:13-21:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:19:17-69
+42-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:19:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:20:17-77
+44-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:20:27-74
+45            </intent-filter>
+46            <intent-filter>
+46-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:22:13-26:29
+47                <action android:name="android.intent.action.SEND" />
+47-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:23:17-69
+47-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:23:25-66
+48
+49                <category android:name="android.intent.category.DEFAULT" />
+49-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:24:17-76
+49-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:24:27-73
+50
+51                <data android:mimeType="text/plain" />
+51-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:25:17-55
+51-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:25:23-52
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:29:9-34:55
+55            android:name="com.google.android.apps.tvremote.MainActivity"
+55-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:30:13-40
+56            android:configChanges="orientation|keyboardHidden"
+56-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:31:13-63
+57            android:screenOrientation="portrait"
+57-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:32:13-49
+58            android:theme="@android:style/Theme.NoTitleBar"
+58-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:33:13-60
+59            android:windowSoftInputMode="adjustPan" />
+59-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:34:13-52
+60        <activity
+60-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:36:9-41:77
+61            android:name="com.google.android.apps.tvremote.KeyboardActivity"
+61-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:37:13-44
+62            android:configChanges="orientation|keyboardHidden"
+62-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:38:13-63
+63            android:screenOrientation="sensor"
+63-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:39:13-47
+64            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+64-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:40:13-72
+65            android:windowSoftInputMode="stateAlwaysVisible|adjustResize" />
+65-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:41:13-74
+66        <activity
+66-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:43:9-48:55
+67            android:name="com.google.android.apps.tvremote.ShortcutsActivity"
+67-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:44:13-45
+68            android:configChanges="orientation|keyboardHidden"
+68-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:45:13-63
+69            android:screenOrientation="portrait"
+69-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:46:13-49
+70            android:theme="@android:style/Theme.NoTitleBar"
+70-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:47:13-60
+71            android:windowSoftInputMode="adjustPan" />
+71-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:48:13-52
+72        <activity
+72-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:50:9-54:75
+73            android:name="com.google.android.apps.tvremote.DeviceFinder"
+73-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:51:13-40
+74            android:label="@string/finder_label"
+74-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:52:13-49
+75            android:launchMode="singleTop"
+75-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:53:13-43
+76            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+76-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:54:13-72
+77        <activity
+77-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:56:9-60:75
+78            android:name="com.google.android.apps.tvremote.PairingActivity"
+78-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:57:13-43
+79            android:label="@string/pairing_activity_label"
+79-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:58:13-59
+80            android:launchMode="singleTop"
+80-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:59:13-43
+81            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+81-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:60:13-72
+82        <activity
+82-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:62:9-66:63
+83            android:name="com.google.android.apps.tvremote.AboutActivity"
+83-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:63:13-41
+84            android:launchMode="singleTask"
+84-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:64:13-44
+85            android:screenOrientation="portrait"
+85-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:65:13-49
+86            android:theme="@android:style/Theme.NoTitleBar" />
+86-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:66:13-60
+87        <activity
+87-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:68:9-72:63
+88            android:name="com.google.android.apps.tvremote.TutorialActivity"
+88-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:69:13-44
+89            android:launchMode="singleTask"
+89-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:70:13-44
+90            android:screenOrientation="portrait"
+90-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:71:13-49
+91            android:theme="@android:style/Theme.NoTitleBar" />
+91-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:72:13-60
+92
+93        <service
+93-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:74:9-79:64
+94            android:name="com.google.android.apps.tvremote.CoreService"
+94-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:75:13-39
+95            android:enabled="true"
+95-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:76:13-35
+96            android:exported="true"
+96-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:77:13-36
+97            android:label="@string/core_service_label"
+97-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:78:13-55
+98            android:permission="android.permission.INTERNET" />
+98-->/Users/yugy/Documents/Github/google-tv-remote/app/src/main/AndroidManifest.xml:79:13-61
+99    </application>
+100
+101</manifest>

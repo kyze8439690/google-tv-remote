@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:shrinkColumns="*"
+    android:stretchColumns="*">
+
+    <TableRow
+        android:layout_height="fill_parent"
+        android:layout_weight="1">
+
+        <com.google.android.apps.tvremote.widget.KeyCodeButton
+            android:layout_height="fill_parent"
+            android:layout_span="2"
+            android:background="@drawable/background_17_selector"
+            android:src="@drawable/icon_17_selector"
+            app:key_code="KEYCODE_ESCAPE" />
+
+        <com.google.android.apps.tvremote.widget.KeyCodeButton
+            android:layout_height="fill_parent"
+            android:layout_span="2"
+            android:background="@drawable/background_18_selector"
+            android:src="@drawable/icon_18_selector"
+            app:key_code="KEYCODE_MUTE" />
+    </TableRow>
+
+    <TableRow
+        android:layout_height="fill_parent"
+        android:layout_weight="1">
+
+        <com.google.android.apps.tvremote.widget.KeyCodeButton
+            android:layout_height="fill_parent"
+            android:layout_span="2"
+            android:background="@drawable/background_19_selector"
+            android:src="@drawable/icon_19_selector"
+            app:key_code="KEYCODE_BACK" />
+
+        <com.google.android.apps.tvremote.widget.KeyCodeButton
+            android:layout_height="fill_parent"
+            android:layout_span="2"
+            android:background="@drawable/background_20_selector"
+            android:src="@drawable/icon_20_selector"
+            app:key_code="KEYCODE_HOME" />
+    </TableRow>
+
+    <TableRow
+        android:layout_height="fill_parent"
+        android:layout_weight="1">
+
+        <com.google.android.apps.tvremote.widget.KeyCodeButton
+            android:id="@+id/button_livetv"
+            android:layout_height="fill_parent"
+            android:layout_span="1"
+            android:background="@drawable/background_21_selector"
+            android:src="@drawable/icon_21_selector"
+            app:key_code="KEYCODE_LIVE" />
+
+        <com.google.android.apps.tvremote.widget.KeyCodeButton
+            android:layout_height="fill_parent"
+            android:layout_span="1"
+            android:background="@drawable/background_22_selector"
+            android:src="@drawable/icon_22_selector"
+            app:key_code="KEYCODE_WINDOW" />
+
+        <com.google.android.apps.tvremote.widget.KeyCodeButton
+            android:layout_height="fill_parent"
+            android:layout_span="1"
+            android:background="@drawable/background_23_selector"
+            android:src="@drawable/icon_23_selector"
+            app:key_code="KEYCODE_BOOKMARK" />
+
+        <com.google.android.apps.tvremote.widget.KeyCodeButton
+            android:layout_height="fill_parent"
+            android:layout_span="1"
+            android:background="@drawable/background_24_selector"
+            android:src="@drawable/icon_24_selector"
+            app:key_code="KEYCODE_MENU" />
+    </TableRow>
+</TableLayout>
